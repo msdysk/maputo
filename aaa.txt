@@ -5,3 +5,4 @@ fe
 afaa
 DDDtoratiseGit
 ココを追加
+反映されてますでしょうか？ 2020/3/23 Yamada
